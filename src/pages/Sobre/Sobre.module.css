@@ -1,0 +1,10 @@
+.sobre {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.curriculo {
+  max-width: 500px;
+  margin: 24px auto 0;
+  line-height: 1.6;
+}

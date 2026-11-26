@@ -1,0 +1,12 @@
+.catalogo {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.grade {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-top: 24px;
+}
